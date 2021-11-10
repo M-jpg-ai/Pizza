@@ -110,3 +110,6 @@ body{
 	width:100px;
 	height: 80px;
 }
+html{
+	scroll-behavior: smooth;
+}
